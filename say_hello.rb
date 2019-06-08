@@ -4,3 +4,5 @@ def say_hello(name)
   return "This is a return"
 end
 say_hello("Aicha")
+puts say_hello
+
