@@ -1,7 +1,6 @@
 # Build your say_hello method here
 def say_hello(name)
-  puts "Hello, #{name}"
-  return name + "32"
+  puts "Hello" (name)
 end
 say_hello("Aicha")
 puts say_hello
